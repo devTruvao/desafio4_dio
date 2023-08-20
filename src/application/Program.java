@@ -15,7 +15,7 @@ public class Program {
         System.out.println(accountCorrente.toString());
         System.out.println();
 
-        Account accountPoupanca = new AccountPoupanca("Diego", 3648, 998.0, "Corrente");
+        Account accountPoupanca = new AccountPoupanca("Diego", 3648, 998.0, "Poupanca");
 
         System.out.println(accountPoupanca.toString());
         System.out.println();
